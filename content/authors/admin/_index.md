@@ -10,10 +10,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: graduation-cap
+    link: /#gupta.mayac@gmail.com
+  - icon: google-scholar
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=qwowZM4AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/MayaGupta27
