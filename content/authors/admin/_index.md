@@ -40,9 +40,6 @@ highlight_name: true
 ---
 My name is Maya Gupta and I'm a first year PhD student in Computer Science currently working with Professor Yuri Pritykin. I am broadly interested in applying machine learning and developing methods to better understand genetic diseases. I am also passionate about teaching and promoting computer science to underrepresented minorities, including women, people of color, and people with disabilities. 
 
-
 Before Princeton, I majored in computer science and minored in applied statistics at the University of Illinois at Urbana-Champaign where I. While there, I did numerous industry software internships and worked with Professor Tandy Warnow on a project to improve an existing Bayesian multiple sequence alignment and phylogeny method. In the summer of 2020, I also worked with Profesor Peipei Ping at UCLA on better understanding the effect of COVID-19 on patients with preexisting cardiovascular comorbidities.
 
 In my free time, I enjoy hanging out with friends, running, puzzles and board games, and reading mystery novels. Since moving to Princeton, I’ve gotten back into playing tennis and solving NYT crosswords.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
