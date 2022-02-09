@@ -1,77 +1,48 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Maya Gupta
+role: PhD Student in Computer Science at Princeton University
+avatar_filename: redcircle.png
+bio: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Computational Biology
+  - Machine Learning
+  - Genetics
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/MayaGupta27
+  - icon: linkedin
+    icon_pack: fab
+    link: www.linkedin.com/in/mayacgupta27
+organizations:
+  - name: Princeton University
+    url: ""
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: PhD in Computer Science
+      institution: Princeton University
+      year: 2026
+    - course: MS in Computer Science
+      institution: Princeton University
+      year: 2023
+    - course: BSc in Computer Science
+      institution: University of Illinois at Urbana-Champaign
+      year: 2021
+email: gupta.mayac@gmail.com
+superuser: true
 highlight_name: true
 ---
+My name is Maya Gupta and I'm a first year PhD student in Computer Science currently working with Professor Yuri Pritykin. I am broadly interested in applying machine learning and developing methods to better understand genetic diseases. I am also passionate about teaching and promoting computer science to underrepresented minorities, including women, people of color, and people with disabilities. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before Princeton, I majored in computer science and minored in applied statistics at the University of Illinois at Urbana-Champaign where I. While there, I did numerous industry software internships and worked with Professor Tandy Warnow on a project to improve an existing Bayesian multiple sequence alignment and phylogeny method. In the summer of 2020, I also worked with Profesor Peipei Ping at UCLA on better understanding the effect of COVID-19 on patients with preexisting cardiovascular comorbidities.
+
+In my free time, I enjoy hanging out with friends, running, puzzles and board games, and reading mystery novels. Since moving to Princeton, I’ve gotten back into playing tennis and solving NYT crosswords.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
