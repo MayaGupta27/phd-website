@@ -1,7 +1,7 @@
 ---
 title: Maya Gupta
 role: PhD Student in Computer Science
-avatar_filename: red.jpg
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Computational Biology
