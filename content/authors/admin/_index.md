@@ -1,7 +1,7 @@
 ---
 title: Maya Gupta
-role: PhD Student in Computer Science at Princeton University
-avatar_filename: redcircle.png
+role: PhD Student in Computer Science
+avatar_filename: red.jpg
 bio: ""
 interests:
   - Computational Biology
