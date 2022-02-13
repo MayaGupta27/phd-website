@@ -28,9 +28,6 @@ education:
     - course: PhD in Computer Science
       institution: Princeton University
       year: 2026
-    - course: MS in Computer Science
-      institution: Princeton University
-      year: 2023
     - course: BSc in Computer Science
       institution: University of Illinois at Urbana-Champaign
       year: 2021
@@ -38,7 +35,7 @@ email: gupta.mayac@gmail.com
 superuser: true
 highlight_name: true
 ---
-My name is Maya Gupta and I'm a first year PhD student in Computer Science currently working with Professor Yuri Pritykin. I am broadly interested in applying machine learning and developing methods to better understand genetic diseases. I am also passionate about teaching and promoting computer science to underrepresented minorities, including women, people of color, and people with disabilities. 
+My name is Maya Gupta and I'm a first year PhD student in Computer Science currently rotating with Professor Yuri Pritykin. I am broadly interested in applying machine learning and developing methods to better understand genetic diseases. I am also passionate about teaching and promoting computer science to underrepresented minorities, including women, people of color, and people with disabilities. 
 
 Before Princeton, I majored in computer science and minored in applied statistics at the University of Illinois at Urbana-Champaign where I. While there, I did numerous industry software internships and worked with Professor Tandy Warnow on a project to improve an existing Bayesian multiple sequence alignment and phylogeny method. In the summer of 2020, I also worked with Profesor Peipei Ping at UCLA on better understanding the effect of COVID-19 on patients with preexisting cardiovascular comorbidities.
 
